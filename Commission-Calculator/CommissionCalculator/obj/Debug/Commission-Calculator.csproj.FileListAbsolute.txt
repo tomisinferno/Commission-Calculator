@@ -1,0 +1,10 @@
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\bin\Debug\Commission-Calculator.exe.config
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\bin\Debug\Commission-Calculator.exe
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\bin\Debug\Commission-Calculator.pdb
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\obj\Debug\Commission-Calculator.csproj.AssemblyReference.cache
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\obj\Debug\CommissionCalculator.frmAgents.resources
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\obj\Debug\CommissionCalculator.Properties.Resources.resources
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\obj\Debug\Commission-Calculator.csproj.GenerateResource.cache
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\obj\Debug\Commission-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\obj\Debug\Commission-Calculator.exe
+C:\Users\tomia\Downloads\C#\Commission-Calculator\CommissionCalculator\obj\Debug\Commission-Calculator.pdb
